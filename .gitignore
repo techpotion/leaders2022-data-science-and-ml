@@ -1,0 +1,17 @@
+*.csv
+*.json
+
+*.png
+
+.ipynb_checkpoints
+
+!application3.csv
+!application4.csv
+
+env
+
+test.py
+
+*.pt
+
+*.pickle
