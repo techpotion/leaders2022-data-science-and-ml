@@ -15,3 +15,7 @@ test.py
 *.pt
 
 *.pickle
+
+*.DS_Store
+
+*.svg
